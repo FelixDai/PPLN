@@ -1,0 +1,6 @@
+Advanced Programming in the UNIX® Environment
+Third Edition
+
+W.Richard Stevens & Stephen A.Rago
+
+http://www.apuebook.com/
